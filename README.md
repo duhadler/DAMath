@@ -1,11 +1,13 @@
 ### DAMath
 
-This repository contains the source code of the DAMath library and other works by Wolfgang Ehrhardt, reformatted in a way which makes it easily accessable within Github. The source code has been copied from https://github.com/chadilukito/www.wolfgang-ehrhardt.de/tree/master.
+The DAMath library is used by the [XlCalcNet](https://duhadler.github.io/XlCalcNet/) library to provide fast and accurate calculation of many special function (most real, some complex) in double precision.
 
-In this repository the source code of the DAMath library is located at https://github.com/duhadler/DAMath/tree/master/src/misc/damath
+This repository contains the source code of the DAMath library and other works by Wolfgang Ehrhardt, reorganised in a way which makes it easily accessable within Github. The reorganised source code has been copied from https://github.com/chadilukito/www.wolfgang-ehrhardt.de/tree/master.
+
+In this repository the source code of the DAMath library is located [here](https://github.com/duhadler/DAMath/tree/master/src/misc/damath).
 
 
-The Reference Manual for DAMath's Special Functions can be downloaded from [DAMath.pdf](https://github.com/duhadler/DAMath/blob/master/pdf/DAmath_2.27.pdf).
+The Reference Manual for DAMath's Special Functions can be downloaded from [here](https://github.com/duhadler/DAMath/blob/master/pdf/DAmath_2.27.pdf).
 
 
 
