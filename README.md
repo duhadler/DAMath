@@ -9,7 +9,7 @@ In this repository the source code of the DAMath library is located at https://g
 
 ### Historical note
 
-The DAMath package used to be available at the website "www.wolfgang-ehrhardt.de". 
+The DAMath package used to be available at the website 'www.wolfgang-ehrhardt.de'. 
 
 However, in early 2019, Wolfgang Ehrhardt passed away, and the website became unreachable for a while. It has then been repurposed to provide information on cryptography (which is one of the areas in which Wolfgang Ehrhard was active).
 
