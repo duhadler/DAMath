@@ -1,6 +1,6 @@
 ### DAMath
 
-The DAMath library is used by the [XlCalcNet](https://github.com/duhadler/XlCalcNet) library to provide fast and accurate calculation of many special function (most real, some complex) in double precision.
+The DAMath library is used by the [XlCalcNet](https://github.com/duhadler/XlCalcNet) library to provide fast and accurate calculation of many special functions (most real, some complex) in double precision.
 
 This repository contains the source code of the DAMath library and other works by Wolfgang Ehrhardt, reorganised in a way which makes it easily accessable within Github. The reorganised source code has been copied from https://github.com/chadilukito/www.wolfgang-ehrhardt.de/tree/master.
 
